@@ -1,0 +1,10 @@
+{
+  "description": "This modern landing page enhances e-commerce marketplace management for brands, offering comprehensive services to boost sales and streamline operations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
